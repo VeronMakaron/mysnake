@@ -1,0 +1,6 @@
+D:\GeekBrains\Курс ООП\snake\snake\bin\Debug\snake.exe.config
+D:\GeekBrains\Курс ООП\snake\snake\bin\Debug\snake.exe
+D:\GeekBrains\Курс ООП\snake\snake\bin\Debug\snake.pdb
+D:\GeekBrains\Курс ООП\snake\snake\obj\Debug\snake.csprojResolveAssemblyReference.cache
+D:\GeekBrains\Курс ООП\snake\snake\obj\Debug\snake.exe
+D:\GeekBrains\Курс ООП\snake\snake\obj\Debug\snake.pdb
